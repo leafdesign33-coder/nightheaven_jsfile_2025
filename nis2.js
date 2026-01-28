@@ -7,7 +7,7 @@ console.log('🚀 Initialisiere Zero Trust Security System...');
 // 1. SECURITY CONFIGURATION
 const SecurityConfig = {
     API_BASE_URL: 'https://api.yourdomain.com',
-    VT_API_KEY: 'YOUR_VIRUSTOTAL_API_KEY',
+    VT_API_KEY: 'a0ed1db1c84e43ca4c325be5895dcc47b3f9f3659adc50c8107a1b9a93b64143',
     MAX_FILE_SIZE: 10 * 1024 * 1024, // 10MB
     ALLOWED_MIME_TYPES: [
         'image/jpeg',
